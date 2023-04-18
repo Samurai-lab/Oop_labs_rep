@@ -1,0 +1,5 @@
+# ninja log v5
+0	668	7035127093700013	CMakeFiles/TaskSix.dir/Iterator.cpp.obj	1df9d9d1bab483a8
+7	683	7035127093850665	CMakeFiles/TaskSix.dir/LinkedList.cpp.obj	fd6a9e7b108370e
+13	685	7035127093865727	CMakeFiles/TaskSix.dir/main.cpp.obj	1caab36e142fd953
+685	807	7035127095058030	TaskSix.exe	4c2549647b671441
