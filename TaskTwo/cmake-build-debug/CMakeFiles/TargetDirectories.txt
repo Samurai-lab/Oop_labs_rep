@@ -1,0 +1,3 @@
+/Users/frau.inc/CLionProjects/TaskTwo/cmake-build-debug/CMakeFiles/TaskOne.dir
+/Users/frau.inc/CLionProjects/TaskTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/frau.inc/CLionProjects/TaskTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
