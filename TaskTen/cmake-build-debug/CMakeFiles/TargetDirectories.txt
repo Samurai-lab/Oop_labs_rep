@@ -1,0 +1,3 @@
+D:/github/Oop_labs_rep/TaskTen/cmake-build-debug/CMakeFiles/TaskTen.dir
+D:/github/Oop_labs_rep/TaskTen/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/Oop_labs_rep/TaskTen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

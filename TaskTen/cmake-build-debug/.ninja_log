@@ -1,0 +1,6 @@
+# ninja log v5
+0	362	7045547860117531	CMakeFiles/TaskTen.dir/main.cpp.obj	cb371e4828fb75b7
+364	461	7045547861080154	TaskTen.exe	5e2208db045f1f63
+9	89	7045588808562311	CMakeFiles/TaskTen.dir/Iterator.cpp.obj	7c9e22e58b96fafd
+14	503	7045588812702893	CMakeFiles/TaskTen.dir/Pair.cpp.obj	e07e935a266f55ec
+19	652	7045588814204450	CMakeFiles/TaskTen.dir/FileIO.cpp.obj	95c8c0f71604ea9d
