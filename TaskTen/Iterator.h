@@ -5,11 +5,7 @@
 #ifndef TASKTEN_ITERATOR_H
 #define TASKTEN_ITERATOR_H
 
-template<typename T>
-struct Point {
-    T num;
-    Point *next = nullptr;
-};
+#include "LinkedList.h"
 
 template<typename T>
 class Iterator {

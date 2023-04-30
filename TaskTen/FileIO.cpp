@@ -4,12 +4,12 @@ template<typename T>
 FileIO<T>::FileIO(std::string filename) : fileName(std::move(filename)) {}
 
 template<typename T>
-int FileIO<T>::load(LinkedList<T> &linkedList) {
+int FileIO<T>::load(LinkedList<T> &list) {
     std::fstream stream(fileName, std::ios::out);
     if (!stream) return -1;
-    auto it = linkedList.first();
+    auto it = list.first();
     auto count = 0;
-    for (; it != linkedList.last(); it++) {
+    for (; it != list.last(); it++) {
         stream << *it << "\n";
         count++;
     }

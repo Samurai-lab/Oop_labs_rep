@@ -13,7 +13,7 @@ class FileIO {
 public:
     FileIO(std::string filename);
 
-    int load(LinkedList<T> &linkedList);
+    int load(LinkedList<T> &list);
 
     int unload();
 
@@ -23,6 +23,7 @@ public:
 
     void decrease_records(T L);
 
-    void add_records(int number, int k);};
+    void add_records(int number, int k);
+};
 
 #endif

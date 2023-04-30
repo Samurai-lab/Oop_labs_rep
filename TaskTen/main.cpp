@@ -1,24 +1,22 @@
-#include "LinkedList.h"
+#include "FileIO.h"
 #include "windows.h"
 
 #define SAVE_VARIBLE_NAME(varible) VARIBLE_NAME = std::string(#varible) + ".txt";
 
-Pair& operator+(int n, Pair& pair)
-{
+Pair &operator+(int n, Pair &pair) {
     return pair + n;
 }
-Pair& operator+(double n, Pair& pair)
-{
+
+Pair &operator+(double n, Pair &pair) {
     return pair + n;
 }
 
 std::string VARIBLE_NAME = "NULL";
 
-void fun_int()
-{
-    LinkedList <double> list(3, 1.5);
+void fun_int() {
+    LinkedList<double> list(3, 1.5);
     SAVE_VARIBLE_NAME(list2);
-    FileIO <double> file(VARIBLE_NAME);
+    FileIO<double> file(VARIBLE_NAME);
     list.push(1.7);
     list.push(2.1);
     list.push(2.5);
@@ -45,11 +43,10 @@ void fun_int()
         std::cout << file.give_list();
 }
 
-void fun_Pair()
-{
-    LinkedList <Pair> list(3, Pair(1, 1));
+void fun_Pair() {
+    LinkedList<Pair> list(3, Pair(1, 1));
     SAVE_VARIBLE_NAME(list2);
-    FileIO <Pair> file(VARIBLE_NAME);
+    FileIO<Pair> file(VARIBLE_NAME);
     list.push(Pair(1, 1.7));
     list.push(Pair(2, 2.1));
     list.push(Pair(3, 2.5));
@@ -77,8 +74,7 @@ void fun_Pair()
 }
 
 
-int main()
-{
+int main() {
     SetConsoleOutputCP(1251);
     SetConsoleCP(1251);
     fun_Pair();

@@ -11,6 +11,12 @@
 #include "FileIO.h"
 
 template<typename T>
+struct Point {
+    T num;
+    Point *next = nullptr;
+};
+
+template<typename T>
 class LinkedList {
 private:
     size_t size = 0;
@@ -60,5 +66,6 @@ public:
 
     size_t give_size() { return size; }
 };
+
 
 #endif
