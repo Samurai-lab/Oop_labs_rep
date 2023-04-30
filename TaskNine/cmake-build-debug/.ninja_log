@@ -1,0 +1,6 @@
+# ninja log v5
+6	67	7045536321103075	CMakeFiles/TaskNine.dir/Iterator.cpp.obj	7eb823473173f5b4
+4	535	7045536544797100	CMakeFiles/TaskNine.dir/main.cpp.obj	64c48b743d52fbd4
+15	422	7045536324669277	CMakeFiles/TaskNine.dir/Pair.cpp.obj	95cc8676ba578ce5
+11	587	7045536326323963	CMakeFiles/TaskNine.dir/LinkedList.cpp.obj	7cc2652fa3186530
+588	712	7045536327531617	TaskNine.exe	8c5bb9b80eb544d9

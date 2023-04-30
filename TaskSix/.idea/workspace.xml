@@ -21,10 +21,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5282fa0-e1b7-409c-a801-494c87e86ccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../TaskSeven/Iterator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TaskSeven/Iterator.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TaskSeven/LinkedList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TaskSeven/LinkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Dialog.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Dialog.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Event.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Event.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Object.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Person.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Person.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Student.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Student.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskEight/Vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashTable/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../HashTable/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
@@ -50,19 +59,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/github/Oop_labs_rep/TaskSix",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github/Oop_labs_rep/TaskSix&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TaskSix" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TaskSix" TARGET_NAME="TaskSix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TaskSix" RUN_TARGET_NAME="TaskSix">
       <method v="2">
@@ -81,6 +90,7 @@
       <workItem from="1681809396500" duration="141000" />
       <workItem from="1681814840541" duration="43000" />
       <workItem from="1681816266342" duration="7000" />
+      <workItem from="1682849522484" duration="25000" />
     </task>
     <servers />
   </component>
